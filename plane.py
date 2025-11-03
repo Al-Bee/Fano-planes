@@ -64,23 +64,3 @@ class fano:
             for j in range(len(i)):
                 if i[j] == digit:
                     i[j] = repl
-                    
-
-# fp_low = fano(1,14)
-# fp_mid = fano(15,28)
-# fp_mid_high = fano(29,42)
-
-# fp_test = fano(1,14)
-# fp_test2 = fano(15,28)
-# fp_test3 = fano(29,42)
-
-# # fp_test3.set_integer(41,1)
-# # fp_test3.set_integer(42,2)
-
-# # fp_low.show_combinations()
-# # fp_mid.show_combinations()
-# # fp_mid_high.show_combinations()
-
-# fp_test.show_combinations()
-# fp_test2.show_combinations()
-# fp_test3.show_combinations()
